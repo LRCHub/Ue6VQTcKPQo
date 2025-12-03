@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "第六感",
+  "base_artist": "Reol",
+  "createdAt": "2025-12-03T12:29:44.376929Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "第六感",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/01_第六感_Reol.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "第六感 feat.東京ゲゲゲイ",
+      "artist": "Reol feat. 東京ゲゲゲイ",
+      "has_synced": true,
+      "path": "select/02_第六感_feat.東京ゲゲゲイ_Reol_feat._東京ゲゲゲイ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "第六感",
+      "artist": "Reol feat.東京ゲゲゲイ",
+      "has_synced": true,
+      "path": "select/03_第六感_Reol_feat.東京ゲゲゲイ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "第六感",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/04_第六感_Reol.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "第六感",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/05_第六感_Reol.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "第六感",
+      "artist": "Reol; 東京ゲゲゲイ",
+      "has_synced": true,
+      "path": "select/06_第六感_Reol;_東京ゲゲゲイ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "第六感 - THE SIXTH SENSE",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/07_第六感_-_THE_SIXTH_SENSE_Reol.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "第六感 - From THE FIRS",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/08_第六感_-_From_THE_FIRS_Reol.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "第六感",
+      "artist": "Rachel Liang",
+      "has_synced": false,
+      "path": "select/09_第六感_Rachel_Liang.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "第六感",
+      "artist": "Stefanie Sun",
+      "has_synced": true,
+      "path": "select/10_第六感_Stefanie_Sun.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "第六感",
+      "artist": "Jam Hsiao",
+      "has_synced": true,
+      "path": "select/11_第六感_Jam_Hsiao.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "第六感 feat.東京ゲゲゲイ",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/12_第六感_feat.東京ゲゲゲイ_Reol.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "第六感",
+      "artist": "温岚",
+      "has_synced": false,
+      "path": "select/13_第六感_温岚.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "第六感",
+      "artist": "Sun, Stefanie",
+      "has_synced": true,
+      "path": "select/14_第六感_Sun,_Stefanie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "第六感",
+      "artist": "温嵐",
+      "has_synced": false,
+      "path": "select/15_第六感_温嵐.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "第六感",
+      "artist": "Landy Wen",
+      "has_synced": false,
+      "path": "select/16_第六感_Landy_Wen.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "第六感",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/pl_01_第六感_Reol.txt"
+    }
+  ]
+}
